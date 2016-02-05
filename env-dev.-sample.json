@@ -1,0 +1,4 @@
+{
+    "MONGO_URL": "localhost:27017/sample-app",
+    "SESSION_KEY": "js98df8d8fhfjdhf"
+}
